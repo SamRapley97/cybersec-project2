@@ -2,8 +2,6 @@
 
 &nbsp;
 
-&nbsp;
-
 ## What this project is:
 
 - This project is a UDP server that facilitates the receiving of a message from the client
