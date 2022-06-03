@@ -1,0 +1,23 @@
+{
+  "name": "cybersec-project2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamRapley97/cybersec-project2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamRapley97/cybersec-project2/issues"
+  },
+  "homepage": "https://github.com/SamRapley97/cybersec-project2#readme",
+  "dependencies": {
+    "dgram": "^1.0.1"
+  }
+}
